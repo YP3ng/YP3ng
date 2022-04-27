@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YP3ng
 - 👀 I’m interested in sports, stocks, and learning.
-- 🌱 I’m currently learning python and try to start a career as a data scientist
+- 🌱 I’m currently studying in unimelb as an IT student.
 - 💞️ I’m looking to collaborate on any projects
 - 📫 If you have any good opportunity, please email me, alexpeng0401@gmail.com
 
